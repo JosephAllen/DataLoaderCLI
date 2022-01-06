@@ -1,4 +1,5 @@
 #/bin/sh
+
 @echo off
 
 IF "%JAVA_HOME%" == "" (
