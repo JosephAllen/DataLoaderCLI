@@ -1,3 +1,5 @@
+#/bin/sh
+
 @echo off
 if not [%1]==[] goto run
 echo.
